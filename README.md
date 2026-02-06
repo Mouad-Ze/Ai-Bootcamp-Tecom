@@ -14,6 +14,10 @@ The brochure in this repo (`Brochure.pdf`) gives you the high-level overview of 
   - Notebooks and code examples written or demonstrated live during the bootcamp.  
   - Use these to **experiment, run, and modify code** as you follow along or revise.
 
+- **`Exercises/`**  
+  - This folder will contain practice exercises, assignments, and extra problems shared during the bootcamp.  
+  - Check here regularly for new material to work on between or after classes.
+
 - **`Brochure.pdf`**  
   - The official event brochure with a summary of the bootcamp, objectives, and schedule.
 
