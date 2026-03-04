@@ -1,8 +1,6 @@
  # AI Bootcamp – Teccom
 
-Welcome to the **AI Bootcamp** repository. This repo contains the learning materials and in-class resources that accompany the bootcamp described in the event brochure.
-
-The brochure in this repo (`Brochure.pdf`) gives you the high-level overview of the event (goals, audience, schedule, and topics). This `README` focuses on helping you **navigate the repository** and use the materials effectively.
+Welcome to the **AI Bootcamp** repository. This repo contains the learning materials and in-class resources that accompany the bootcamp.
 
 ## Repository structure
 
